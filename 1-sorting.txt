@@ -1,0 +1,16 @@
+Integar = 1, 5, 2, 8, 7, 15, 20, 12
+select even 3 even integar value
+2,8, 20
+n1=2
+n2=8
+n3=20
+sort and ranking ascending
+if n1 < n2, n1 < n3
+if n2 < n3
+print
+2 < 8, 2 < 20
+8 < 20
+ranking
+2
+8
+20
