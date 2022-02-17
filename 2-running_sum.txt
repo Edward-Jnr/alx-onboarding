@@ -1,0 +1,7 @@
+Input value
+sum = 20
+add input value to the sum
+if input value plus sum is positive 
+print value
+if input value plus sum is negative 
+stop
