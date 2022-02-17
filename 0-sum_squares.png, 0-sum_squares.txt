@@ -1,0 +1,9 @@
+Let n= number
+n1= 25
+n2= 36
+n3= 100
+Find square root of n1, n2, n3
+Add Square root value of n1, n2, n3
+= 5 + 6 + 10
+print
+=21
